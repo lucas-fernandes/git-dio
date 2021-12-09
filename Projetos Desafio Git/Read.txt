@@ -1,2 +1,3 @@
-Anotações para o desafio de Git e Github da DIO em sua 
-segunda versão no programa de Estagio da AVANADE.
+Anotações para o desafio de Git e Github da DIO em sua segunda versão no programa de Estagio da AVANADE.
+
+Foi realizado a criação de um novo repositorio, incluido um Readme e personalizado posteriormente, criado esse arquivo e upado via Git Bash para o GitHub. 
