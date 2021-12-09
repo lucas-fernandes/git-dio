@@ -1,0 +1,2 @@
+Anotações para o desafio de Git e Github da DIO em sua 
+segunda versão no programa de Estagio da AVANADE.
