@@ -1,6 +1,10 @@
-# Repositório do desafio de projeto Git/GitHub da DIO Decola Tech 2 edição
-Criado para desafio de projetos
+# DecolaTech 2ª Edição - DIO :rocket: :boom:
 
-## Links úteis
+Repositório criado para guardar os desafios da jornada imersiva do programa de estágio da Avanade.  
 
-[Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
+*[Lucas Fernandes](https://www.linkedin.com/in/lucas-fernandes-223a18165/)*
+
+## Desafios realizados 
+
+:one: **Git/GitHub** - :white_check_mark:
+
